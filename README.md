@@ -8,6 +8,8 @@ This project is one of our contributions to Open Source Malaria (OSM). Previous 
 * IntePro [IPR023298 family](https://www.ebi.ac.uk/interpro/entry/InterPro/IPR023298/alphafold/#table) annotations now contain AlphaFold2 predictions for many closely related proteins.
 * Feel free to test the [Colab Notebook](https://colab.research.google.com/github/ersilia-os/osm-pfatp4-structure/blob/main/PfATP4_AlphaFold2_Prediction.ipynb)
 
+![PfATP4_AlphaFold_Model-01](https://user-images.githubusercontent.com/19725330/126727902-61d2fb68-1185-4918-bf0a-81bd5dcaac90.png)
+
 ## Pipeline
 
 1. We downloaded PfATP4 sequence from UniProt [Q9U445](https://www.uniprot.org/uniprot/Q9U445)
