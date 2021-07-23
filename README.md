@@ -1,6 +1,6 @@
 # PfATP4 protein structure predicted with AlphaFold2
 
-This project is one of our contributions to Open Source Malaria (OSM). Previous OSM docking results with homology models did not yield satisfactory outcomes. Hopefully, AlphaFold2 structures will provide better accuracy.
+This project is one of our contributions to Open Source Malaria (OSM). Previous OSM docking results with homology models did not yield satisfactory outcomes. Hopefully, AlphaFold2 structures will provide better accuracy. Please see OSM issue [#35](https://github.com/OpenSourceMalaria/Series4_PredictiveModel/issues/35) for more information.
 
 ## TL;DR
 
