@@ -6,7 +6,7 @@ This project is one of our contributions to Open Source Malaria (OSM). Previous 
 
 * 3 PDB files are available at `model/PFATP4_3temp_116_end_relaxed_model_*.pdb`. According to the IDDT diagram, model 1 is the best.
 * IntePro [IPR023298 family](https://www.ebi.ac.uk/interpro/entry/InterPro/IPR023298/alphafold/#table) annotations now contain AlphaFold2 predictions for many closely related proteins.
-* Feel free to test the [Colab Notebook](AlphaFoldPredictPfAtp4Structure.ipynb)
+* Feel free to test the [Colab Notebook](https://colab.research.google.com/github/ersilia-os/osm-pfatp4-structure/blob/main/PfATP4_AlphaFold2_Prediction.ipynb)
 
 ## Pipeline
 
