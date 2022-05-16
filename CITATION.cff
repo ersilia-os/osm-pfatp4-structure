@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Plasmodium falciparum PfATP4 structure based on AlphaFold 2"
+authors:
+- family-names: "Turon"
+  given-names: "Gemma"
+  orcid: "https://orcid.org/0000-0001-6798-0275"
+- family-names: "Duran-Frigola"
+  given-names: "Miquel"
+  orcid: "https://orcid.org/0000-0002-9906-6936"
+title: "osm-pfatp4-structure"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-05-16
+url: "https://github.com/ersilia-os/osm-pfatp4-structure"
